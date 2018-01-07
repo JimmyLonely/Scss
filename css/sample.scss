@@ -1,0 +1,8 @@
+.bip .baz {
+    color: red;
+    font-size: 12px;
+}
+
+.foo .bar {
+    @extend .baz;
+}

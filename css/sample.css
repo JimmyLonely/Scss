@@ -1,0 +1,9 @@
+.bip .baz,
+.bip .foo .bar,
+.foo .bip .bar {
+    color: red;
+    font-size: 12px;
+}
+
+
+/*# sourceMappingURL=sample.css.map */
